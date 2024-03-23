@@ -1,1 +1,1 @@
-Hola desde la rama "ramaNueva"
+Este es el primer archivo del curso de SergieCode que esta viendo Danilokosam
